@@ -1,5 +1,5 @@
 # Wishlist API
-
+# [Freelance Magento Developer](https://www.phpfreelanceprogrammer.com/magento-programmer.html)
 Adds an API to interact with the Magento2 wishlist.
 
 [![Build Status](https://travis-ci.org/mediamanDE/magento-module-wishlist-api.svg?branch=master)](https://travis-ci.org/mediamanDE/magento-module-wishlist-api)
